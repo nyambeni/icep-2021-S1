@@ -1,0 +1,28 @@
+Moloto HL.
+
+-My first day to work was on the 15th of june 2021, induction day.
+-We were welcomed by Mr Kabelo Malatji who was the coordinator of the proceedings.
+-We were introduced to Our Lead Team members, whom we will be working under,
+ amd their respective specialization.
+-Other people who introduced themselves to us and also shared advice and expectancies 
+ included :
+
+Mr Stevens Mamorobela (Will Coordinator)
+Ms Mogase (Head of informatics department)
+Mr Phurusi aka Mash.
+Mr Simon Sekele
+Mr Mogale(Former Icep student)
+Mr Junior Lephotho
+
+-We were told how we were going to work moving forward regarding our work as interns
+ in accordance with the Icep plans and Covid19 savety guidlines.
+
+-23 June
+-Us developers, were asked to login to our Git accounts and accept an invitation from Mr Nyambeni.
+
+-24 June
+-Mr Nyambeni shared with us links to Youtube videos that introduced using Angular to create
+ applications, node Js to manage data. 
+
+-29 June
+- We were tasked to send this detailed report from induction to yesterday the 28th.

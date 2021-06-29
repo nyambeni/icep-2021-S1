@@ -1,0 +1,7 @@
+on the 15 of june we had our induction programme. On that day we were given an idea on how our 
+day to day job is going to be like, the lead team introduced themselves and told us about the tools we will be using
+like trello,slack, Git Ms Teams etc...
+
+we learned about Devops and the difference between quality assurance, testing and also agile testing. We were also informed about the AWS programme,
+we also had to sign the WIL forms and also send our git usernames electronically. One of our lead team have sent us video tutorial
+that were informative and gave us a foundation on UML,APIS and the database on the 28th of june we had to explain what we have learnt from the tutorials.

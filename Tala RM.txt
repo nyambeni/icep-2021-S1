@@ -1,3 +1,4 @@
+JUNE
 Our first day at work was on the 15th of June 2021, an induction was conducted and we learned about everything there 
 is to know about ICEP. From Leak Teams, Amazon web service, programs offered at ICEP, and ofcourse ICEP tools. All the
 Organization members were properly introduced and everyone got a chance to express themselves in terms of what they 
@@ -8,4 +9,25 @@ with our work. After that we received an ivitation to a GITHUB Repository, where
 all our codes there. Some Tutorials were sent to us, further explaining what UML is and why it is important. Overview
 of an Angular project was covered and some steps were covered on how to connect and manipulate database using Myphpadmin
 and Node.js.
+
+July
+Week 5-9
+On this week we continued with our registration while starting to work from home at the same time. The first chapter of  agile course was sent to us for completion. We also started with AWS educate and a progress monitor spreadsheet was sent to us for progress tracking so we could see if we were all doing the work. I managed to complete the foundation pathway on the AWS educate this week. 
+ 
+Week 12-16
+Chapter 2 of Agile course was made available for this week and the registrations were still on-going. We started with the planning of the LAB BOOKING SYSTEM and everyone is playing their part. A System development plan was submitted during this week and it had some errors which needed to be corrected. The errors were corrected and the plan was submitted, developing the system was our next task. We received a list of the software we need to install in order to get started with the development process. A chapter was made available on the Agile course for us to complete.
+ 
+Week 19-23
+With some little guidance from our leaders we managed to install all the necessary software we will be using to develop the system. We started with the development of the LBS, we received a UML from our BAs, Registration and Login page were the first ones we had to implement. We had several sessions correcting the UML and ERD diagrams. We from the developers side had to learn how to use Angular, Git bash, and Vs code in order to start with the development of the system. 
+
+The first thing was to clone the repository which was created by our team leader by using Git Commands or cloning to the desktop GitHub and open the repo with Vs code. I learned some few Git commands in order to be able to track the repo and see who made the changes. Between us Developers, there are back-end and front-end developers, we had to communicate effectively to make sure the system was up and running. I also managed to complete the cloud computing on AWS Educate.
+ 
+Week 26-30
+ After learning all the Git commands and how the Vs code and other modules connect, the coding started!. I was assigned to create a component for a registration page and code the registration page. I created the component to the cloned repo and started with the registration page, I created the form using angular html form controls with some validation. After that I imported the form control and form group modules to the registration backend script to be able to use them. Another front-end developer was assigned to create a login component and create a login form. We had some few errors to correct after that I created the routing between the Login and Registration page in order to be able to navigate between the two pages.
+
+Routing was done and the Login and Registration page were successfully running. I created some functions in the back end of the form component to capture input field data and store it in the variables so we can send It to the database. After that the testing was done and errors were fixed, the system was running fine.  I started with Application development on AWS Educate
+ 
+AUGUST
+Week 2-6
+On this week we started to attend work at the campus and most of us were not ready but we managed to show up and meet everyone and get to know our team members. I had pushed the project which was missing some folders because of Gitingore file. I managed to delete the file and push the overall project from my local directory. The forgot password component and form were created, awaiting testing. On our back-end the Database, Validation, login and registration pages were up and running. Our Bas had completed the Sequence, ERD, and Use Case diagrams. 
 

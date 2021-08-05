@@ -1,0 +1,24 @@
+26 July 2021
+
+*I still went through the software and looked into similar systems online and 
+then my team member and I agrred i should do login/register and he will do screening.
+
+27 July 2021
+
+*We had teams meeting with Product Owner and he explained and us the overall of what is 
+expected in the system. He later furnished us with slides which were Covid-19 reporting forms,
+Covid 19-Algothrim which included 3 scenarios.
+
+28 July 2021
+
+*We had a meeting with Matshidiso to do follow ups on what we currently doing,what we have accomplised
+and if we have any struggles.
+* I was already started with login/registration and still busy with it.
+
+29 July 2021
+
+*I was done with login/registration and testing it. Later it was pused to git.
+* We preprared for the presentation.
+
+30 July 2021
+* Presentation was moved to the 13th August 2021.

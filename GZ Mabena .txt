@@ -53,4 +53,19 @@ on the 30 of july
 we were supposed to have a meeting at 10 due to mis communication a link wasnt sent for that meeting.
 '
 
+on the 2nd of august
+we reported to the office for the first time our lead team explained the schedule to us and told us we will have daily scrums at 10.
+i started by doing a set up for ssh and cloning the repo of our project
+on this day i created a table for lecture and started working on the forgot password
+
+on the 3rd of august
+i had to fix some errors from the forgot password page
+
+on the 4th of august
+we did not report to office i dedicated this day on learning a definition for api and database
+
+on the 5th of august
+i watched a video on how to fetch data from the database and i tried working on creating a session
+so that when a user is succesfully loged in the system will display the users detailes
+
  

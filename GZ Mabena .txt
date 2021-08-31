@@ -68,4 +68,45 @@ on the 5th of august
 i watched a video on how to fetch data from the database and i tried working on creating a session
 so that when a user is succesfully loged in the system will display the users detailes
 
+on the 6th of august
+- i updated the database to have lab fields
+
+on the 9th of august
+--completed 1 aws module
+
+on the 10th of august
+--completed agile
+
+on the 13th of august 
+--we had our first retro and refinement
+
+on the 14th of august  
+--we had a pilot presentation were we presented about the registration and login page for both frontend and backend
+
+on the 17th of august
+--i had to analyse the booking with one of my collegue before coding
+
+on the 18th of august
+-- i started working with an api for listing the available labs
+
+on the 19th of august
+-- we had to connect the api for listing the available labs with the front end we faced difficulties and ended up with errors
+
+on the 20th of august
+--we managed to resolve the errors we had with listing available labs 
+
+on the 23rd of august
+--i created a an api for making a booking
+
+on the 24 of august
+-- i created an api for cancelling a booking
+
+on the 25th of august
+- i had to create an api that retrieves booking details from the booking table
+
+on the 26th of august
+-we had our retro and refinement we had to make changes in the way the systems books the labs since well we will include classes and exams 
+
+on the 27th of august
+-- we had our 3rd presentation we presented about metrics and also the booking page 
  

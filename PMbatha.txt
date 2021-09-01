@@ -1,0 +1,98 @@
+Report: 
+
+15 of June:
+
+Today the HOD of all faculties welcomed us as new ICEP interns for 2021 1st semester, He then brought us up to 
+speed about our value and expertise from the department about this program.
+furthermore, he told us that we should use our experience from our previous programming languages to finish day to day programming collectively
+it was an induction.
+
+
+we learned about DevOps and the difference between quality assurance, testing and also agile testing. We were also informed about the AWS program,
+we also had to sign the WIL forms and also send our git usernames electronically. One of our lead team have sent us video tutorial
+that were informative and gave us a foundation on UML, APIS and the database.
+
+28th of June:
+We had our first daily scrum to discuss what had completed or planning to do.
+
+5th of July: 
+We were given WIL forms,
+
+6th of July:
+I did research on angular and Node.JS.
+
+7th of July:
+we were asked to fill up a form for changing qualifications from theory to practical
+
+12th of July:
+I completed the AWS management console module in which I have learnt how to navigate through the AWS Console
+
+19th of July:
+Mr. Nyambeni instructed us to learn git and familiarize our self with git commands
+
+20th of July:
+we had a meeting on Microsoft teams where we discussed the system as whole and listed all the users of the system and the use case on Trello
+
+21st of July:
+we started working on the system. I was given a task to research about developing front-end interface for the Web application.
+
+
+23rd of July:
+Today I generated components for our Covid-Compliance application.
+ 
+4rd of July:
+Angular applications require npm dev-kit to be re-installed when you had pushed it on Git.
+
+25th of July: 
+We had our daily scrum and assigned new tasks on Trello
+
+28th of July:
+We linked back-end and front-end applications
+
+29th of July:
+I was researching about using bootstrap to style an application
+
+
+3rd of August:
+I met my tea members in the office for the first time in person and we discussed ways to work together
+so, we could speed up the process.
+
+4th of August:
+I added some style on Registration page
+
+5th of August:
+I was working on form validation but unfortunately, I had some blockers.
+
+6th of August:
+We prep for the presentation that will happen next week Friday
+
+
+11th of August:
+The team decided that registration form must be removed on the application.
+
+13th of August: 
+Presentation Day
+
+16th of August: 
+Mr. Nyambeni helped me with Git Commands
+
+19th of August:
+I was debugging and handling errors
+
+20th of August:
+We managed to resolve the errors we had with listing available labs 
+
+24th of August:
+New ICEP members were introduced to us.
+
+25th of August:
+We had our retro meeting with BAs in their office and we met our new team leader.
+
+27th of August:
+Pilot Presentation
+
+31st of August:
+We had our daily scrum, 
+
+1st of September:
+I was assigned a task on Trello for admin to delete and add users on the application.

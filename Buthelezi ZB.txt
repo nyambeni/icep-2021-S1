@@ -1,0 +1,4 @@
+The Interns attended the induction on the 15th of June 2021, where the interns was introduced to the team and how things work and the culture of the work place. Learning materials were introduced to the Interns via videos, in addition a WILL form was provided and submitted back to the team leader so that we can be able to register IDC30BH. 
+
+
+The Interns was introduced to Amazon web service, i.e. taught how to create WEB Appliction using angular CL and Node JS. Used SQL server to save data in a database. After that we received an invitation to a GITHUB Repository Notes and videos were provided about main stuck and tested our knowledge about what we have learned.

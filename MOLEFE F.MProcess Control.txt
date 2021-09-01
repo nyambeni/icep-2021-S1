@@ -1,0 +1,40 @@
+03 August 2021
+
+*Started reporting to campus, we had a scrum meeting with Mr. Moutlwatse.
+He explained that we front-end class need to connect login with API. So we were
+still waiting for back end class team.
+
+04 August 2021
+
+*We had a meeting with developers and changed some fields and add too. They were actually not
+corresponding with database,back end class and front end class. W e chaned the register fields.
+
+* We again had a scrum meeting and explained what developers meeting was all about to Matshidiso,Mohale and Mr.Moutlwatse.
+
+*I went through Process Controll
+-We have 3 approches that helps us to manage process control
+
+1. Defined Process Control
+-This is when each phase of the process is completed before the next phase starts.
+-It works for construction where you need to first lay foundation before the walls.
+-Any process that is the same and repitable can work well with defined proces control,
+where there are few variables and nolt many uncertainities.
+
+2.Statistical Process Control
+-Uses statistical methods to monitor and control a process.
+-This works well in a manufacturing context using measurements to manage how many pieces
+or work done in an hour,day or week.
+-To measure leak and cyle times.
+-Many of the lean thinking akso use Statistical process control.
+
+3.Emperical Process Control
+-It is benefitial when they are many unknown and high levels of variability and uncertainity in both
+process and product.
+-It is build on the 3 foundational elements of transparency,inspection and adaptation.
+-Uses cycle of plan,do,check and act.
+-The backlog of work and to get the process done it needs to be transparent in order for planning to efective,
+so you first plan enough to get something done.
+- You build something.
+- Then pause to look back on what you build that you can adjust your process.
+-You might get some feedback so that you can adapt.
+Scrum is irmly based in emperical process control

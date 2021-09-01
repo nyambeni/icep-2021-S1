@@ -1,0 +1,12 @@
+20 July 2021
+* On the 20th July 2021 we had a meeting about Covid Compliance were we given
+a task on the 19th July 2021 by Mr. Moutlwatse to come up with ideas in 
+regards to the product.
+* We touched based on what is needed on the Covid Compliance Application as followed:-
+1.User Stories
+2.User Case.
+3.Sequence Diagram.
+4.ERD.
+5.Database.
+6.Screening(Front-end).
+7.Screening(Back-end).

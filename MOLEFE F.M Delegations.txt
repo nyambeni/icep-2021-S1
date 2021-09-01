@@ -1,0 +1,11 @@
+21 July 2021
+* We had a scrum meeting with Matshidiso where we were supposed to add functionalities and they were
+as followed:-
+Student/Staff
+Admin
+Login
+Registration
+Screenign:Viewing locations,view contacts details of nearby Dr.,view nearby
+vaccination points.
+* Task were delegated amongst us, me and my time we were doing Screening font end class, login and registration.
+

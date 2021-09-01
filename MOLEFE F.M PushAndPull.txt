@@ -1,0 +1,23 @@
+22 July 2021
+
+*We had a scrum meeting with team leader Mohale. Explaining what we have done so far.
+* i went through Angular tuttorials to familiarize myself with the language and the software.
+
+*Later on i went to study Push and Pull System
+
+ 
+PUSH AND PULL SYSTEMS
+
+*I went through the push and pull system and this are the following aspects are learned:-
+*Push and Pull System
+-It comes from supply chain management.
+-There are two different ways to distribute goods to end-user.
+*I later learned the difference between push amd pull
+
+Push system
+1. Developing software products are disgned around push systems.
+2. Teams will have a que of work that is 6 months.
+
+Pull system
+1.Teams will work on a limited number of items at a time.
+2. teams finished one work before they start another.

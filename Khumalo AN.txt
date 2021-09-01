@@ -1,0 +1,66 @@
+Report
+
+15 June 2021 - Induction
+-> On that day we HOD of all fuculties welcomed us as new candicates of ICEP 2021 1st semester, and they wished us a great
+journey with our internship while we are going to get skills and experience in industry.
+They taught us what is ICEP, they said ICEP is a place where we going to get more experience as a programmer.
+
+
+21 June 2021
+-> ICEP manegement they sent the WIL for to fill out then bring it back on the following day.
+
+22 June 2021
+-> I filled out the for that contains my git username so i can get the invatation then i accepted that invitation 
+on my git account so i can have the ICEP repository where i'm going to push my work.
+On that i also filled the form again to choose wheather i am a back-end developer or a front-end developer.
+
+23 June 2021
+-> I filled out the form wheather i am a developer or business analysts as i'm a developer.
+
+24 June 2021
+-> Our developer tutor sent us a youtube link for videos about Angular, Node.js, and Introduction to UML. then
+i've concentrate on the Angular part since i'm a front end developer.
+
+28 June 2021
+-> The quesion came up from our developer tutor based on the videos they sent to use on the 24th of June.
+
+12 august 
+-> we had our first retro
+
+13 august  
+-> The presentation for what is done in print 1 and 2 which is login, registration and forgot password page
+
+17 august
+-> Start analysing the work for print 3
+
+18 august
+-> i started working on the auth for login restriction
+
+19 august
+-> i was still working on the autho but facing challenges the we decides to take another task
+
+20 august
+-> i started working on creating an API for updating the password 
+
+23 August
+-> i started working on creating an API for logged in user on the profile 
+
+24 August
+-> working on the profile 
+
+25 August
+- i was working on the profile to retrieve the students details
+
+26 August
+-> we had our retro and refinement 
+
+27 August
+-- we had our 3rd presentation for the sprint 3 
+
+30 August
+-> Start analysing for sprint 4 and work on validating the update of password on the profile
+
+1 September
+-> creating the API for users on the admin page to see all the users
+ 
+ 

@@ -1,0 +1,72 @@
+MOLEFE F.M
+
+We had an induction on the 15 June 2021. We spoke about the following:
+
+1.Agile Project: We were inormed about PMO, Supportivr and Controlling and the structure tree o Agile Project.
+
+2. Scrum:
+-We spoke about the SDLC step by step.
+-We spoke up the accountability within the scrum.
+-We spoke about scrum team.
+
+3. Developers
+-We defined the developer with Percy where it was concluded that it combines development and IT operations.
+-DevOp:Is the union o people,process and technology to continaully provide value to customer.
+-As a Dev Op you fasten the delivery process and among others you solve problems independent.
+
+4. Business Analysts Developer
+-This was conducted by Nyakallo, he differentiated Domain Name Business  which he explained that it focuses site of business and identify problems.
+-Project Business Analysyts they implement project.
+
+5.Icep Tools
+-The folllowing are Icep tools we will be working with during the internship were explained by Katlego
+Trello-for scrum(progress).
+Slack-documentation.
+Vs code -for coding.
+GiT-push
+AWS Educate - certificate 
+Agile and Scrum -tracking process ,time based (cerificate)
+Ms Visio -Diagrams and drawing.
+
+6.QA & Testing.
+-We touched the following base with Nyambezi:
+-Agile Testing.
+-Continuous Integration.
+-Pseudo Agile projects.
+-Waterfall to Agile,
+
+QA: we prevent bugs and measure quality of the process.
+Test: We test to see errors.
+
+Agile Tester Principles
+1.Provide continuous feedback.
+2.Deliver continuous feedback.
+3.Eanable face to face to face communication.
+4. Have courage.
+5. Keep it simple.
+6. Practice continuous improvement.
+
+Agile Testing Process
+1. Initial Planning.
+2. Planning.
+3. Requirements.
+4. Analysis & Design.
+5. Development.
+6. Testing
+7. Functionality.
+8. Evaluation.
+
+7. Introduction to Design
+-Kgomotso gave 7 principles of designs which are:
+Emphasise:What is emphasised.
+Balance Alignment: How to use colours and how to place elements.
+Contrast: How you going to use colours and bland them.
+Repetition: How to place things/style.
+Movement:How you want the user's eye to move.
+white space:How you use it and it should not be to much.
+
+
+On the  28 June 2021 We discussed about the following:
+
+1.Introduction to to UML: Which explained what UML is ,what are the importance of it and the analysis in the SDLC.
+2.Node,js MYSQL Rest: Shows how to manipulate data storage by using arrays and objects to store data.

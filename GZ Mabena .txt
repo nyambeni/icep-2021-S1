@@ -105,8 +105,14 @@ on the 25th of august
 - i had to create an api that retrieves booking details from the booking table
 
 on the 26th of august
--we had our retro and refinement we had to make changes in the way the systems books the labs since well we will include classes and exams 
+-we had our retro and refinement meeting we decided to change the booking part from working daily to have a schedule so that we can cancel out labs that has classes and exams
 
-on the 27th of august
--- we had our 3rd presentation we presented about metrics and also the booking page 
+on the 28th of august
+we had a presentation for sprint 3 where we presented about the lab booking page how the system retrieves available labs and how the user books for a lab
+
+on the 31st of august 
+--i created an api for the admin to be able to publish a schedule of available labs selecting a specific lab and date and choosing all slots that will be available for that day 
+
+on the 1st of september 
+--i created an api that  allows an admin to reserve a lab for class OR exams if they made a lab to be available for bookings by mistake   
  

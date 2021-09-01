@@ -1,0 +1,34 @@
+June 
+15 June - Induction was conducted were informed about everything that has to do with ICEP. Introduction of Lead teams and all the organization member involved with ICEP
+
+After a week or so we were sent WIL Forms to fill out and send back to the admin so that we can register for Industrial Exposure. One of the Lead team developer sent invitation to us on GitHub so that we can work as team remotely, he then sent few tutorials about Angular, Node.js and UML 
+
+July
+2 July  - We were added on our groups according to specialisations. We were again added on different groups for the system that we are going to develop, I was added to the Covid Compliance group.
+
+5-9 July - We started working remotely, we started with AWS educate and also the Agile course. We were then sent a link to monitor our AWS Educate progress. Started with chapter one for Agile course
+
+12-16 July - A new chapter for Agile course was made available. we were also requested to send Re-Admission form for registrations. 
+One of the Lead Team Developer requested that we should download softwares that we are going to use for our projects.
+
+19-23 July - We had our first meeting via Teams for the system that we are going to develop. were then asked to make suggestions the Leader who was conducting the meeting then showed us how does trello works. I completed the AWS: Introduction to AWS Management Console. We started having Daily Scrum meeting to report on what we did the day before and on what we are planning to complete.The was also a new Agile chapter with a quiz, i managed to complete it. Installed softwares and managed to watch tutorials and familiarized myself with Angular and VSCode, then I started working on the project, created a login form and registration form components, did not have any problems. 
+
+26-30 July - The Lead team told us that will start reporting to work from the 2nd of August. We had a meeting with Mr Kamba, SHE Rep for ICT First year and Foundation he then explained an algorithm that had to do with covid-19. We added more requirements/functionalitees after the meeting with our leader. I started the screening form and its components to the project. Tested the screening form to check if it was accepting values. Started with learning about GitHub, watched few tutorials and the I started trying out the commands. Then I managed to push the project to the Git Repository that I was invited to. We had pilot presentation 1 via Teams.
+
+
+August
+2-6 August - We started reporting at work, we had Sprint 2 discussing what to be added on the system for it to work
+
+9-13 August - We had a Retro and Refinement to discuss and suggest improvements to the system. I then added two components for admin and user-profile, pushed the project back to the Git Repository, We had another presentation pilot presentation 2 to present what we did the past two weeks.
+
+16-20 August - we had a meeting with the CPS HOD, we asked how they collect information from the gate, and after that how is the information is processed after it has been collected, the CPS HOD explained the process and showed us templates of forms that are used to collect the data, We had Sprint 3 to add more functionalites, I then added Statistics Component that will show Daily, weekly and monthly numbers. Then i updated the Statistics component.
+
+23-27 August - Created a new component: Landing page, then installed Angular-Boostrap to use for the whole project, then I added a carousel using the angular-bootstrap at first it was not appearing ok, then I researched about it then I managed to fix it, then I added a footer to the app component so that can be used on the whole system, I then pushed the project to the Git Repository. New Lead team members were introduced.
+
+30-31 August - Tried adding angular animations but I was getting errors, watched some few tutorials and tried to fix the errors but i did not manage.
+
+September
+1 September - I Managed to fixed the footer and also added Animations using AOS, Installed the AOS package to the project, then I pushed to it to the Git Repository
+
+
+

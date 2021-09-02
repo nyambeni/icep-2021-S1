@@ -1,0 +1,23 @@
+13th August 2021
+
+We encountered challenges as a teams, we could not present instead we fixed our erros that was caused by Git. We started from scratch to connect front end with backend.
+
+
+16-20 August 2021
+
+Screening page and dashboard page were completed and to be presented on the next presentaion friday.
+
+23-27 August 2021
+
+Checking the system if everything is running smoothly and changing the interface. Presentation was done to show the Dashboard, screening and admin page.
+
+01-02 September 2021
+
+Givent a task to add Vaccination Sites into the system
+
+
+
+
+
+
+

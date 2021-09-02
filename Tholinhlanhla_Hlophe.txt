@@ -1,1 +1,25 @@
-My File
+								Tholinhlanhla Hactor Hlophe
+
+June 
+15 June I attended induction day where they informed about everything about ICEP. Introduction of lead team and al the organization members involved in ICEP.
+
+July
+2 July - We were added on our groups according to specializations. We were again added on different groups for the system that we are going to develop, that where I was added to the Covid Compliance group.
+
+5 - July - I started working remotely, I started with AWS educate and also the Agile course. One of the Lead Team Developer requested that we should download software’s that we are going to use for our projects, I downloaded them and install it in my machine successfully. 
+
+19-23 July - We had our first meeting via Teams for the system that we are going to develop, that where I stated working on a system watching tutorials in YouTube while trying to get stated with angular and NodeJS. I managed to build first API for the system and take the front-end code form front end developers connect it with my express back-end code successfully. 
+
+August 
+2-6 August - We started reporting at office, we had Sprint 2 discussing what to be added on the system for it to work. Duering this week I managed to create screening functionality for our system.
+  
+9-13 August - I was improve screening functionality for our system.
+
+16-20 August - We had a meeting with the CPS HOD, we asked how they collect information from the gate, and after that how is the information is processed after it has been collected, the CPS HOD explained the process and showed us templates of forms that are used to collect the data, we had Sprint 3 to add more functionalities. I and my team member code back-end statistics functionality of the system. 
+
+23-27 August – I was busy creating database according to ERD that was created by Business Analysts.  
+
+30-31 August – I was busy with authentication and authorization of the system. I managed to successfully create login for the system and other authorization for the pages we currently have.
+
+September
+1 September – I was fixing and updating the database and we were busy testing the system with Business Analysts.

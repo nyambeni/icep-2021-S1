@@ -1,0 +1,36 @@
+15 June 2021 - Induction Day
+On that day we had HOD of all fuculties welcoming us as new interns of ICEP 2021 first semester, and they guided us to have a great
+journey with our internship with the most experience of industry.
+We were guided as the concerp behind ICEP, mostly why and what is it that we have to do in icep.
+
+
+21 June 2021 to 28 June 2021
+ICEP manegement they sent the WIL for to fill out then bring it back on the following day.
+There were arrangement about setting up the GIT invitations and to make sure that we work on same repository.
+On that i also filled the form again to choose wheather i am a back-end developer or a front-end developer.
+I filled out the form wheather i am a developer or business analysts as i'm a developer.
+Our developer tutor sent us a youtube link for videos about Angular, Node.js, and Introduction to UML. then
+i've concentrate on the Angular part since i'm a front end developer.
+There was a follow up on our progress as to what we have learned from the tutorials that our developer leader Mr Nyambeni have sent to us.
+
+1 July to 10 July 2021
+We got introduced to new system Covid Compliace system. and we had a meeting with our leaders of the team to which they had to explain and try to guide us 
+on how to approach the system and what is expeceted from us during sprint and daily scrum. also to know which softwares to be used.
+During this time we had to do more research about the system and also about the tools we were about to use since some of us it was the first time learning those tools.
+
+
+13 July to 30 July 2021
+Things we getting well with the new developing skills on how to usse Git hub and also the programs we were using such as POSTMAN for testing Visual Studio for writting code,
+I personally started more producctive and creative thinking in terms of coding and to know which programs works better with what.
+
+
+6 August to 31 AUG 2021
+We had a meeting with the CPS HOD, we asked how they collect information from the gate, 
+and after that how is the information is processed after it has been collected, 
+the CPS HOD explained the process and showed us templates of forms that are used to collect the data, 
+we had Sprint 3 to add more functionalities. I and my team member code back-end statistics functionality of the system. 
+I was busy creating database according to ERD that was created by Business Analysts, we had a sprint meeting to present the part of the system we created for that week.
+I was busy with authentication and authorization of the system. I managed to successfully create login for the system and other authorization for the pages we currently have.
+
+September
+1 September – I updated the back end for mapping of nearest clinics and help also in the front end to make sure everything runs smoothly

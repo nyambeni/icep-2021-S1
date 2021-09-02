@@ -1,0 +1,43 @@
+                                                                            15  JUNE INDUCTION 
+
+15 of june was a day we got introduced to the ICEP hub leading team and people from the departmnet of informatics. They introduce 
+to a web service called amason which is platform to further your knowledge in the field of clouding and database.Lastly the give us 
+scope of what ICEP entails form the programming site which programming langauge are used and wheare are they has an ICEP and proud are they 
+that they have helped many student to finally reached they goals and which is powerfull.yeah basically it was an indepth indro.
+
+                                                                           
+
+                                                                        18 JUNE INDUCTION 
+
+We started communicating via whataspp group .are they we just assuuring us to family with langaugae that ICEP are doing .
+
+
+
+                                                                               JULY
+
+
+We started submit our registration form Wil electornical form to iced admin and the given us an link to our tut4life to register
+for amason .We started registration to a lot of platform that i didnt know before like trello form scrum and posting our job done
+and starting to work remotely I register form agile foundation cource and complete my 1st module . 
+ 
+We introduce to this system called Covid Compliace system .and we took an online meating with a our leading team just to familyrize the 
+expectation of the system ,what kind of softwared needed.We were given role to play in the project ,they gave me a task of being a backend-developer for covid compalice
+1st sprint task was to create and API for registrations and logging and test your data throuht postman which was entirely a new thing to me 
+So i started going throught tutorial on you tube for node.js and angular,So my tools are VSCODE ,POSTMAN,GIT 
+ 
+
+So we then being taughed that to make sure your work its safe and people can access your job please learn GIT to safe your Code .and then started to 
+become something that we do on daily basic cause you need to push your data to git 
+
+and from that it was learning timelesy ,you need to have a lot information which was a bit tough cause you get a clear picture whats going on but the 
+fact that you want to learn and purse your dream career you hae to find ways even which its hard .
+ 
+
+Our first pushcode project was actully running we called test our API from Postman but we greated a JSON file that has data so that we test with 
+them we didnt embeded a database yet 
+     
+                                                                             AUGUST
+
+We started working from campus and we managed to complete our work for loging page connect to front end and database which was a huge achievement
+we started to present our work and every end of the sprint to ur leading team online .so far its still a learnig journey but getting fun a achievement you complete 
+so right we validating our paraments for authentications using angular and completed the web service for amason 
